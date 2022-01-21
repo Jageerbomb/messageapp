@@ -32,6 +32,17 @@
 $ npm install
 ```
 
+## Database
+
+Install XAMPP and run the services:
+- MySQL Database
+- Apache Web Server
+
+And create in http://localhost/phpmyadmin/ a database:
+- name: sendmeapp_db
+- user: nest
+- pass: app
+
 ## Running the app
 
 ```bash
